@@ -1,0 +1,19 @@
+.auth {
+  padding: 1rem;
+  border: 1px solid black;
+}
+
+.restaurant {
+  border: 1px pink solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 20rem;
+  margin-bottom: 1rem;
+}
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
